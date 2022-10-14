@@ -31,7 +31,7 @@ repos:
         types: [ python ]
         args: [ --in-place, --remove-all-unused-imports, --remove-duplicate-keys ]
 
-      # Run python unittes
+      # Run python unittest
       - id: tests
         name: unittest
         entry: python3 -m unittest tests/__main__.py
