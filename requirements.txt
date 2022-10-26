@@ -2,3 +2,6 @@ black
 pyupgrade
 reorder-python-imports
 autoflake
+flake8
+pytest
+pipenv
