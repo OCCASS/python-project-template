@@ -5,3 +5,5 @@ autoflake
 flake8
 pytest
 pipenv
+
+fastapi
